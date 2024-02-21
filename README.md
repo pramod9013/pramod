@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [KV NO.1 Itanagar](https://no1itanagar.kvs.ac.in/)
 
-- 📫 How to reach me **prmod.ku1996@gmail.com**
+- 📫 How to reach me **prmod.k1996@gmail.com**
 
 - ⚡ Fun fact **Hey there 👋**
 
