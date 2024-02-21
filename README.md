@@ -1,3 +1,4 @@
+![logo](https://github.com/pramod9013/pramod/blob/main/Capture.JPG)
 <h1 align="center">Hi 👋, I'm Pramod Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer and Java Programmer.</h3>
 
