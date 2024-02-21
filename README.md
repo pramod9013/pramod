@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod9013&label=Profile%20views&color=0e75b6&style=flat" alt="pramod9013" /> </p>
 
-- 🔭 I’m currently working on **Computer Science Teacher**
+- 🔭 I’m currently working on **Computer Science Teacher and Software Engineer**
 
 - 🌱 I’m currently learning **PHd in Computer Science and Engineering**
 
