@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prmod.k1996@gmail.com**
 
-- ⚡ Fun fact **Hey there 👋**
+- ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
